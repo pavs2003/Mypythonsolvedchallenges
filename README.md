@@ -1,2 +1,2 @@
-# Mypythonsolvedchallenges
+# Mypython solved challenges
 Just random solved challenges using python.
